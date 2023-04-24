@@ -11,7 +11,7 @@ Key concepts introduced
 
 **Random LOLCat web service**
 
-[consuming-python-services-api.azurewebsites.net/cats/random](http://consuming-python-services-api.azurewebsites.net/cats/random)
+[consuming-python-services-api.azurewebsites.net/cats/random]()http://consuming-python-services-api.azurewebsites.net/cats/random
 
 **Binary data from requests**
 
